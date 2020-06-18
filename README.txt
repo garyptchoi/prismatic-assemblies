@@ -1,4 +1,4 @@
-Codes and link patterns for the deterministic and statistical control of connectivity and rigidity in prismatic assemblies 
+Codes and link patterns for the deterministic and stochastic control of connectivity and rigidity in prismatic assemblies 
 
 Reference:
 G. P. T. Choi, S. Chen, and L. Mahadevan, 
