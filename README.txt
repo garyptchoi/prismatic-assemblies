@@ -3,7 +3,7 @@ Codes and link patterns for the deterministic and stochastic control of connecti
 Reference:
 G. P. T. Choi, S. Chen, and L. Mahadevan, 
 "Control of connectivity and rigidity in prismatic assemblies."
-Preprint, arXiv:2005.05845, 2020.
+Proceedings of the Royal Society A, to appear.
 
 Copyright (c) 2020, Gary Pui-Tung Choi, Siheng Chen, L. Mahadevan
 
