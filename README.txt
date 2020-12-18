@@ -4,6 +4,7 @@ Reference:
 G. P. T. Choi, S. Chen, and L. Mahadevan, 
 "Control of connectivity and rigidity in prismatic assemblies."
 Proceedings of the Royal Society A, 476(2244), 20200485, 2020.
+https://doi.org/10.1098/rspa.2020.0485
 
 Copyright (c) 2020, Gary Pui-Tung Choi, Siheng Chen, L. Mahadevan
 
